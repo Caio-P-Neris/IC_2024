@@ -1,4 +1,5 @@
 import streamlit as st
+import streamlit.components.v1 as components
 
 st.header("Projeto Iniciação Científica Caio Pereira Neris, UFABC")
 
@@ -53,4 +54,4 @@ a:hover, a:active {
 </div>
 """
 
-st.html(footer)
+components.html(footer, height=120)
