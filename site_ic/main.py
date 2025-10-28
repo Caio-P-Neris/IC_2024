@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.markdown("<h1 style='line-height:1.2'>Projeto Iniciação Científica <br>Caio Pereira Neris, UFABC</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='line-height:1.2'>Projeto Iniciação Científica Caio Pereira Neris, UFABC</h1>", unsafe_allow_html=True)
 
 st.write("Esse site tem como objetivo apresentar o trabalho 'Obtenção de uma carteira ótima de investimentos com base em métodos de otimização e aprendizado de máquinas', feito por Caio Pereira Neris. Aluno da UFABC, bolsista do CNPq e orientado pelo professor Dr. Jair Donadelli.")
 
