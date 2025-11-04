@@ -11,6 +11,8 @@ st.write("""
 Este trabalho explora, principalmente, a teoria de métodos de otimização de portfólios, com foco no modelo de Black–Litterman, mas também aplica tais métodos no mercado de ações brasileiro. O objetivo principal foi demonstrar, estudar, implementar e avaliar o método, integrando com previsões de visões do investidor geradas por algoritmos de aprendizado de máquina. Os portfólios otimizados pelo método de Black–Litterman, de Markowitz e a Eficiência Reamostrada são comparados entre si e comparados com o desempenho do índice Ibovespa. Os resultados demonstram que, embora os modelos de aprendizado de máquina apresentem baixo poder preditivo isoladamente, a estrutura do modelo Black–Litterman se mostra robusta. A conclusão evidencia o valor do modelo Black–Litterman como uma ferramenta eficaz para a gestão de carteiras, capaz de agregar valor mesmo em cenários de alta incerteza e com previsões imperfeitas.
 """)
 
+st.video("https://youtu.be/HLNo4W2irEk")
+
 footer = """
 <style>
 a:link, a:visited {
